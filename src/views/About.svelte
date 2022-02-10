@@ -7,7 +7,7 @@
 </svelte:head>
 
 <Layout>
-  <h1>About</h1>
+  <h1>About 2</h1>
   <div>
     Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet non architecto
     magni aut eveniet aperiam possimus debitis praesentium, distinctio magnam ex

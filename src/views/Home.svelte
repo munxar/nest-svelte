@@ -1,6 +1,5 @@
 <script>
-  import { log } from 'console';
-import Layout from './Layout.svelte';
+  import Layout from './Layout.svelte';
   export let message;  
 </script>
 

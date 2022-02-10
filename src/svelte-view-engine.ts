@@ -1,4 +1,3 @@
-import { identity } from 'rxjs';
 
 export function svelteViewEngine(filePath: string, options: any, next) {
   const Component = require(filePath).default;
